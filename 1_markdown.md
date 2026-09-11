@@ -7,8 +7,28 @@ Here is the example to replicate:
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_example.png)
 
-% WRITE YOUR MARKDOWN HERE
+% WRITE YOUR MARKDOWN HERE 
+# My First Markdown Document
+This is my introduction to markdown formatting. I'm learning how to use various formatting
+options so that I can style my reports.
+Skills I'm practicing:
+1. Making text **bold** and *italic*
+2. Creating ordered and unordered lists
+3. Adding code snippets
+4. Creating headers and subheaders
+Important programming concepts:
+- Variables store data values
+- Functions are reusable blocks of code
+- print() is a built-in Python function
+- Comments help explain code to others
 
+Here's a simple Python example:
+# This is a comment
+'''python
+name = "MUDE Student"
+age = 20
+print(f"Hello, my name is {name} and I am {age} years old.")
+'''
 
 ## Task 2 Open rendered markdown preview
 
